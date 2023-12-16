@@ -6,3 +6,5 @@ print("value of b",b)
 
 print("a>b",a>b)
 print("hello")
+
+print('how are you')
